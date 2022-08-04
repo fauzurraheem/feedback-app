@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "this text 2 is coming fron json server, yes it is",
+      "rating": 1,
+      "id": 2
+    },
+    {
+      "text": "this is text two",
+      "rating": 1,
+      "id": 3
+    },
+    {
+      "text": "what is this",
+      "rating": 9,
+      "id": 4
+    }
+  ]
+}
